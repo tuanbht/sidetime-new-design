@@ -1,0 +1,11 @@
+@import "./variables";
+
+.btn {
+  font-family: "TestSoehne";
+  margin: 0 8px;
+  padding: 8px 20px 10px;
+  border-radius: 100px;
+  color: $white;
+  font-size: 19px;
+  line-height: 22px;
+}

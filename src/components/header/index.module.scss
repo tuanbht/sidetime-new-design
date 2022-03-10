@@ -1,0 +1,22 @@
+@import "styles/variables";
+@import "styles/mixins";
+
+.container {
+  padding: 50px 60px;
+}
+
+.logo {
+  height: 46px;
+}
+
+.join {
+  @include link_button($west_side);
+}
+
+.sign_in_as_expert {
+  @include link_button($regent_gray);
+}
+
+.sign_in {
+  @include link_text($prussian_blue);
+}
