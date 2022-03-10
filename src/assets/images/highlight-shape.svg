@@ -1,0 +1,9 @@
+<svg width="136" height="103" viewBox="0 0 136 103" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M50.2232 103C40.2945 103.013 30.5853 100 22.3255 94.3434C14.0656 88.6866 7.62671 80.6401 3.82424 71.2232C0.02177 61.8063 -0.973176 51.4426 0.965396 41.4446C2.90397 31.4467 7.68892 22.2644 14.7141 15.0607C21.7393 7.85695 30.6886 2.956 40.4287 0.978399C50.1689 -0.999197 60.2615 0.0355396 69.4284 3.9517C78.5953 7.86786 86.424 14.4891 91.9229 22.977C97.4219 31.4648 100.344 41.4374 100.318 51.6315C101.023 81.0977 115.949 89.5165 136 101.684V102.868L50.2232 103Z" fill="url(#pattern0)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use href="#image0_301_306" transform="translate(-0.123204 -0.0275716) scale(0.00568219 0.00755544)"/>
+</pattern>
+<image id="image0_301_306" width="200" height="200" href="/assets/icons/calendar.svg" alt="Video"/>
+</defs>
+</svg>
